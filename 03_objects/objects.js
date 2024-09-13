@@ -36,6 +36,6 @@ console.log(Jsuser)
 
  console.log(Obj3)
 
- const Obj4 = {...Object1,...Object2} // to spread
+ const Obj4 = {...Object1,...Object2} // to spread 
 
  console.log(Obj4)
